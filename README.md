@@ -9,53 +9,69 @@ Aqui eu guardo as atividades das matérias do curso e o Projeto Integrador, orga
 
 ## Como o repositório está organizado
 
-Cada matéria (Unidade Curricular) tem a sua pasta. Dentro dela, cada atividade tem a própria pasta com um README explicando o que foi feito.
+Cada matéria (Unidade Curricular) tem a sua pasta. Dentro dela, cada atividade tem a própria pasta com um README explicando o que foi feito e, quando tenho, o arquivo entregue.
 
 ```
 portfolio-academico/
-├── testes-de-software/
 ├── validacao-e-verificacao/
+├── governanca-em-ti/
+├── high-tech-aplicada-ao-mercado/
+├── empreendedorismo-e-planos-de-negocio/
+├── ingles-avancado/
 ├── gestao-da-informacao/
 └── projeto-integrador/
 ```
 
-**Padrão de nomes:** `atividade-XX-assunto-sistema`, tudo minúsculo, sem acento e separado por hífen.
-Exemplo: `atividade-08-casos-de-teste-parabank`
+**Padrão de nomes:** número ou código da atividade + assunto, tudo minúsculo, sem acento e separado por hífen.
+Exemplos: `atividade-08-casos-de-teste-parabank`, `lab01-pratica02-pesquisa-bsc`
 
-**Toda atividade começa com uma tabela de informações:** matéria, tipo, data, status, tags e atividades relacionadas.
+**Toda atividade começa com uma tabela de informações:** matéria, tipo (individual ou grupo), equipe, data, status, arquivo, tags e atividades relacionadas.
 
 ---
 
 ## Matérias
 
-| Matéria | O que tem |
-|---|---|
-| [Testes de Software](testes-de-software/) | Plano de testes, arquitetura de testes |
-| [Validação e Verificação](validacao-e-verificacao/) | Avaliação de release, casos de teste, critérios de aceitação |
-| [Gestão da Informação](gestao-da-informacao/) | Arquitetura da informação (este repositório) |
-| [Projeto Integrador](projeto-integrador/) | DaMatch, projeto do grupo |
+| Matéria | Atividades | O que tem |
+|---|---|---|
+| [Validação e Verificação de Software](validacao-e-verificacao/) | 5 | Plano e arquitetura de testes, casos de teste, avaliação de release |
+| [Governança em TI](governanca-em-ti/) | 4 | Indicadores, BSC, COBIT, governança ágil |
+| [High Tech Aplicada ao Mercado](high-tech-aplicada-ao-mercado/) | 3 | Plano de negócio, automação, blockchain |
+| [Empreendedorismo e Planos de Negócio](empreendedorismo-e-planos-de-negocio/) | 2 | Estudo de caso, tendência e oportunidade |
+| [Inglês Avançado](ingles-avancado/) | 1 | Projeto em inglês |
+| [Gestão da Informação](gestao-da-informacao/) | 1 | Arquitetura da informação (este repositório) |
+| [Projeto Integrador](projeto-integrador/) | - | DaMatch, projeto do grupo |
 
 ---
 
-## Todas as atividades
+## Todas as atividades (por data)
 
-| Atividade | Matéria | Data | Tipo | Tags |
-|---|---|---|---|---|
-| [06 - Plano de Testes MediRoute](testes-de-software/atividade-06-plano-de-testes-mediroute/) | Testes de Software | 02/10/2026 | Individual | `#plano-de-testes` `#qa` `#riscos` |
-| [07 - Release Assessment SauceDemo](validacao-e-verificacao/atividade-07-release-assessment-saucedemo/) | Validação e Verificação | 16/09/2026 | Individual | `#release` `#qa` `#teste-exploratorio` |
-| [08 - Casos de Teste ParaBank](validacao-e-verificacao/atividade-08-casos-de-teste-parabank/) | Validação e Verificação | 02/10/2026 | Individual | `#casos-de-teste` `#criterios-de-aceitacao` `#bugs` |
-| [10 - Arquitetura de Testes MedSupply](testes-de-software/atividade-10-arquitetura-de-testes-medsupply/) | Testes de Software | 02/10/2026 | Individual | `#arquitetura-de-testes` `#automacao` `#qa` |
-| [Aula 06 - Repositório Acadêmico](gestao-da-informacao/aula-06-repositorio-academico/) | Gestão da Informação | 03/10/2026 | Individual | `#arquitetura-da-informacao` `#github` |
-| [DaMatch](projeto-integrador/) | Projeto Integrador | 2026.2 | Grupo | `#full-stack` `#angular` `#spring-boot` |
+| Data | Atividade | Matéria | Tipo |
+|---|---|---|---|
+| 24/08/2026 | [Project JJ: Healthy Eating](ingles-avancado/project-jj-healthy-eating/) | Inglês Avançado | Grupo |
+| 26/08/2026 | [Indicadores de TI](governanca-em-ti/lab01-pratica01-indicadores-de-ti/) | Governança em TI | Grupo |
+| 03/09/2026 | [Análise da Tencent](governanca-em-ti/pratica-01-analise-tencent/) | Governança em TI | Grupo |
+| 06/09/2026 | [Estudo de caso Airbnb](empreendedorismo-e-planos-de-negocio/estudo-de-caso-airbnb/) | Empreendedorismo | Grupo |
+| 06/09/2026 | [Plano de Negócio Digital](high-tech-aplicada-ao-mercado/plano-de-negocio-digital/) | High Tech | Grupo |
+| 07/09/2026 | [Da tendência à oportunidade](empreendedorismo-e-planos-de-negocio/da-tendencia-a-oportunidade/) | Empreendedorismo | Grupo |
+| 09/09/2026 | [Métricas de Governança Ágil](governanca-em-ti/lab02-pratica01-metricas-governanca-agil/) | Governança em TI | Grupo |
+| 15/09/2026 | [Automação de Tarefas](high-tech-aplicada-ao-mercado/automacao-de-tarefas-organizacionais/) | High Tech | Grupo |
+| 16/09/2026 | [07 - Release Assessment SauceDemo](validacao-e-verificacao/atividade-07-release-assessment-saucedemo/) | Validação e Verificação | Individual |
+| 18/09/2026 | [Pesquisa BSC](governanca-em-ti/lab01-pratica02-pesquisa-bsc/) | Governança em TI | Grupo |
+| 23/09/2026 | [09 - Arquitetura de Testes E-commerce](validacao-e-verificacao/atividade-09-arquitetura-de-testes-ecommerce/) | Validação e Verificação | Grupo |
+| 02/10/2026 | [06 - Plano de Testes MediRoute](validacao-e-verificacao/atividade-06-plano-de-testes-mediroute/) | Validação e Verificação | Individual |
+| 02/10/2026 | [08 - Casos de Teste ParaBank](validacao-e-verificacao/atividade-08-casos-de-teste-parabank/) | Validação e Verificação | Individual |
+| 02/10/2026 | [10 - Arquitetura de Testes MedSupply](validacao-e-verificacao/atividade-10-arquitetura-de-testes-medsupply/) | Validação e Verificação | Individual |
+| 03/10/2026 | [Seminário Blockchain](high-tech-aplicada-ao-mercado/seminario-blockchain/) | High Tech | Grupo |
+| 03/10/2026 | [Meu Repositório Acadêmico](gestao-da-informacao/aula-06-repositorio-academico/) | Gestão da Informação | Individual |
 
 ---
 
-## Buscar por tag
+## Buscar por assunto
 
-Pra achar uma atividade por assunto, use a busca do GitHub (tecla `/` ou `t`) com a tag, ou veja a lista abaixo:
+Dá pra usar a busca do GitHub (tecla `/`) com a tag, ou ir direto pela lista:
 
-- **#qa**: [06](testes-de-software/atividade-06-plano-de-testes-mediroute/), [07](validacao-e-verificacao/atividade-07-release-assessment-saucedemo/), [10](testes-de-software/atividade-10-arquitetura-de-testes-medsupply/)
-- **#casos-de-teste**: [08](validacao-e-verificacao/atividade-08-casos-de-teste-parabank/)
-- **#riscos**: [06](testes-de-software/atividade-06-plano-de-testes-mediroute/), [07](validacao-e-verificacao/atividade-07-release-assessment-saucedemo/), [08](validacao-e-verificacao/atividade-08-casos-de-teste-parabank/)
-- **#arquitetura-da-informacao**: [Aula 06](gestao-da-informacao/aula-06-repositorio-academico/)
-- **#full-stack**: [DaMatch](projeto-integrador/)
+- **Testes e QA:** [06](validacao-e-verificacao/atividade-06-plano-de-testes-mediroute/), [07](validacao-e-verificacao/atividade-07-release-assessment-saucedemo/), [08](validacao-e-verificacao/atividade-08-casos-de-teste-parabank/), [09](validacao-e-verificacao/atividade-09-arquitetura-de-testes-ecommerce/), [10](validacao-e-verificacao/atividade-10-arquitetura-de-testes-medsupply/)
+- **Indicadores e KPIs:** [Indicadores de TI](governanca-em-ti/lab01-pratica01-indicadores-de-ti/), [Pesquisa BSC](governanca-em-ti/lab01-pratica02-pesquisa-bsc/), [Governança Ágil](governanca-em-ti/lab02-pratica01-metricas-governanca-agil/)
+- **Startups e negócios:** [Airbnb](empreendedorismo-e-planos-de-negocio/estudo-de-caso-airbnb/), [Da tendência à oportunidade](empreendedorismo-e-planos-de-negocio/da-tendencia-a-oportunidade/), [Plano de Negócio Digital](high-tech-aplicada-ao-mercado/plano-de-negocio-digital/)
+- **Estudos de caso de empresas reais:** [Airbnb](empreendedorismo-e-planos-de-negocio/estudo-de-caso-airbnb/), [Tencent](governanca-em-ti/pratica-01-analise-tencent/)
+- **Ligadas ao DaMatch:** [Projeto Integrador](projeto-integrador/), [Da tendência à oportunidade](empreendedorismo-e-planos-de-negocio/da-tendencia-a-oportunidade/)

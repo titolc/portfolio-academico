@@ -36,7 +36,19 @@ Como PO, fico com o backlog, as histórias de usuário e a parte de requisitos. 
 - [Casos de uso](https://github.com/Diogo746/Da-Match/blob/main/docs/03-use-cases.md)
 - [Histórias de usuário](https://github.com/Diogo746/Da-Match/blob/main/docs/04-user-stories.md)
 
+## Pesquisa com o público
+
+Antes de fechar os requisitos, fizemos um [formulário de pesquisa](https://docs.google.com/forms/d/e/1FAIpQLSdWaY8GitUXkt7KDYUNWOpQwVt2yEz-pO1sdkYKuyOiDRTRew/viewform) com startups, mentores e investidores. A ideia era entender como essas conexões acontecem hoje:
+
+- quantas vezes a pessoa buscou mentoria, parceria ou investimento nos últimos 6 meses;
+- onde procurou (indicação, eventos, LinkedIn, WhatsApp, incubadoras...);
+- quais critérios pesaram na escolha (setor, estágio, experiência, localização...);
+- qual foi a maior dificuldade e no que deu a busca.
+
+Os critérios perguntados no formulário são os mesmos que o sistema usa para calcular o match.
+
 ## Ligação com as outras matérias
 
+- O problema e a oportunidade do projeto vieram da atividade [Da tendência à oportunidade](../empreendedorismo-e-planos-de-negocio/da-tendencia-a-oportunidade/), de Empreendedorismo.
 - As histórias de usuário e os critérios de aceitação usam o mesmo formato da [Atividade 08](../validacao-e-verificacao/atividade-08-casos-de-teste-parabank/).
-- O plano de testes do projeto pode seguir o modelo da [Atividade 06](../testes-de-software/atividade-06-plano-de-testes-mediroute/).
+- O plano de testes do projeto pode seguir o modelo da [Atividade 06](../validacao-e-verificacao/atividade-06-plano-de-testes-mediroute/).

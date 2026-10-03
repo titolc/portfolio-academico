@@ -20,11 +20,11 @@ Criar um repositório no GitHub que sirva de portfólio e guarde as atividades d
 | Conceito | Onde está no repositório |
 |---|---|
 | **Classificação** | Uma pasta por matéria e uma para o Projeto Integrador. Cada atividade fica dentro da matéria dela. |
-| **Taxonomia** | Hierarquia fixa: Curso → Matéria → Atividade. Os nomes seguem um padrão: `atividade-XX-assunto-sistema`. |
-| **Metadados** | Toda atividade começa com uma tabela: matéria, tipo, data, status, tags e relacionadas. |
+| **Taxonomia** | Hierarquia fixa: Curso → Matéria → Atividade. Os nomes seguem um padrão: número ou código + assunto (`atividade-08-casos-de-teste-parabank`, `lab01-pratica02-pesquisa-bsc`). |
+| **Metadados** | Toda atividade começa com uma tabela: matéria, tipo (individual/grupo), equipe, data, status, arquivo, tags e relacionadas. |
 | **Navegação** | O README principal tem o sumário. Cada página tem link de "voltar ao início" e pra pasta da matéria. |
-| **Encontrabilidade** | Tabela com todas as atividades na página inicial, lista por tag e nomes de pasta fáceis de buscar no GitHub. |
-| **Relações entre conteúdos** | Cada atividade aponta pras parecidas (ex.: 07 e 08, 06 e 10) e as matérias de teste se ligam ao Projeto Integrador. |
+| **Encontrabilidade** | Na página inicial tem a lista de todas as atividades por data e uma busca por assunto. Os nomes de pasta são fáceis de achar na busca do GitHub. |
+| **Relações entre conteúdos** | Cada atividade aponta pras parecidas, mesmo de matérias diferentes. Ex.: a atividade 09 (grupo) e a 10 (individual) são o mesmo tema; "Da tendência à oportunidade" é a origem do Projeto Integrador. |
 
 ## Por que organizei assim
 

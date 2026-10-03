@@ -1,15 +1,15 @@
 # Atividade 10 - Arquitetura de Testes MedSupply
 
-[⬅ Voltar ao início](../../README.md) · [Testes de Software](../)
+[⬅ Voltar ao início](../../README.md) · [Validação e Verificação](../)
 
 | | |
 |---|---|
-| **Matéria** | Testes de Software |
+| **Matéria** | Validação e Verificação de Software |
 | **Tipo** | Individual (para casa) |
 | **Data** | 02/10/2026 |
 | **Status** | Entregue |
 | **Tags** | `#arquitetura-de-testes` `#automacao` `#qa` |
-| **Relacionadas** | [Atividade 06](../atividade-06-plano-de-testes-mediroute/) (plano de testes) |
+| **Relacionadas** | [Atividade 06](../atividade-06-plano-de-testes-mediroute/) (plano de testes) · [Atividade 09](../atividade-09-arquitetura-de-testes-ecommerce/) (arquitetura de testes, em grupo) |
 
 ## O que foi pedido
 
