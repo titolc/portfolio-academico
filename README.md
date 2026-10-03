@@ -1,6 +1,6 @@
 # Portfólio Acadêmico
 
-Christopher Lindoso de Carvalho
+**Christopher Lindoso de Carvalho**<br>
 Análise e Desenvolvimento de Sistemas, 5º período, Faculdade Senac Recife (2026.2)
 
 Aqui eu guardo as atividades das matérias do curso e o Projeto Integrador, organizados de um jeito que dê pra achar qualquer coisa rápido.
