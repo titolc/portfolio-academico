@@ -1,10 +1,10 @@
-# LAB01 - Prática 01: Indicadores para Governança em TI
+# LAB01 - Prática 01: Indicadores para Governança em Tecnologia da Informação
 
-[⬅ Voltar ao início](../../README.md) · [Governança em TI](../)
+[⬅ Voltar ao início](../../README.md) · [Governança em Tecnologia da Informação](../)
 
 | | |
 |---|---|
-| **Matéria** | Governança em TI |
+| **Matéria** | Governança em Tecnologia da Informação |
 | **Tipo** | Grupo |
 | **Equipe** | Christopher Lindoso, Davi Maia, Diogo Barbosa, José Mário Brandão |
 | **Data** | 26/08/2026 |

@@ -1,4 +1,4 @@
-# Empreendedorismo e Planos de Negócio
+# Empreendedorismo e Planos de Negócios
 
 [⬅ Voltar ao início](../README.md)
 

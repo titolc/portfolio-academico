@@ -1,10 +1,10 @@
 # Prática 01: Análise Crítica da Tencent
 
-[⬅ Voltar ao início](../../README.md) · [Governança em TI](../)
+[⬅ Voltar ao início](../../README.md) · [Governança em Tecnologia da Informação](../)
 
 | | |
 |---|---|
-| **Matéria** | Governança em TI |
+| **Matéria** | Governança em Tecnologia da Informação |
 | **Tipo** | Grupo (apresentação) |
 | **Equipe** | Christopher Lindoso, Davi Maia, Diogo Barbosa, José Mário Brandão, Miguel Cavalcanti |
 | **Data** | 03/09/2026 |

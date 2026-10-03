@@ -1,4 +1,4 @@
-# Inglês Avançado
+# Tech English - Advanced
 
 [⬅ Voltar ao início](../README.md)
 

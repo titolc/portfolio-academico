@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Matéria** | Extensão Full Stack (Projeto Integrador) |
+| **Matéria** | Unidade de Extensão: Full Stack (Projeto Integrador) |
 | **Tipo** | Grupo |
 | **Semestre** | 2026.2 |
 | **Status** | Em desenvolvimento |
@@ -51,6 +51,6 @@ Os critérios perguntados no formulário são os mesmos que o sistema usa para c
 
 - O problema e a oportunidade do projeto vieram da atividade [Da tendência à oportunidade](../empreendedorismo-e-planos-de-negocio/da-tendencia-a-oportunidade/), de Empreendedorismo.
 - Em Inteligência Artificial, usamos [dados públicos de Recife](../inteligencia-artificial/pi-oportunidade-dados-publicos-recife/) para checar a oportunidade e montamos um [pacote de contexto](../inteligencia-artificial/pacote-de-contexto/) para investigar o problema com IA.
-- Em Validação e Verificação, fizemos o [plano de testes do cadastro de startup](../validacao-e-verificacao/atividade-04-plano-de-testes-cadastro-startup/) do DaMatch.
-- As histórias de usuário e os critérios de aceitação usam o mesmo formato da [Atividade 08](../validacao-e-verificacao/atividade-08-casos-de-teste-parabank/).
-- O plano de testes do projeto pode seguir o modelo da [Atividade 06](../validacao-e-verificacao/atividade-06-plano-de-testes-mediroute/).
+- Em Verificação e Validação, fizemos o [plano de testes do cadastro de startup](../verificacao-e-validacao/atividade-04-plano-de-testes-cadastro-startup/) do DaMatch.
+- As histórias de usuário e os critérios de aceitação usam o mesmo formato da [Atividade 08](../verificacao-e-validacao/atividade-08-casos-de-teste-parabank/).
+- O plano de testes do projeto pode seguir o modelo da [Atividade 06](../verificacao-e-validacao/atividade-06-plano-de-testes-mediroute/).

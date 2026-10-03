@@ -1,4 +1,4 @@
-# Validação e Verificação de Software
+# Verificação e Validação de Software
 
 [⬅ Voltar ao início](../README.md)
 

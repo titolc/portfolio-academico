@@ -1,10 +1,10 @@
 # Atividade 09 - Arquitetura de Testes de um E-commerce
 
-[⬅ Voltar ao início](../../README.md) · [Validação e Verificação](../)
+[⬅ Voltar ao início](../../README.md) · [Verificação e Validação](../)
 
 | | |
 |---|---|
-| **Matéria** | Validação e Verificação de Software |
+| **Matéria** | Verificação e Validação de Software |
 | **Tipo** | Grupo |
 | **Equipe** | José Mário Brandão, Davi Maia, Nikolas Messias, Diogo Barbosa, Christopher Lindoso |
 | **Data** | 23/09/2026 |

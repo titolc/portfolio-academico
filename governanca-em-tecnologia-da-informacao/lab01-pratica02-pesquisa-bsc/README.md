@@ -1,10 +1,10 @@
 # LAB01 - Prática 02: Pesquisa Balanced Scorecard
 
-[⬅ Voltar ao início](../../README.md) · [Governança em TI](../)
+[⬅ Voltar ao início](../../README.md) · [Governança em Tecnologia da Informação](../)
 
 | | |
 |---|---|
-| **Matéria** | Governança em TI |
+| **Matéria** | Governança em Tecnologia da Informação |
 | **Tipo** | Grupo |
 | **Equipe** | Christopher Lindoso, Diogo Barbosa, José Mário Brandão, Davi Maia, Miguel Cavalcanti |
 | **Data** | 18/09/2026 |

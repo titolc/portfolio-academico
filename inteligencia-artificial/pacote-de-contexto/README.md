@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Matéria** | Inteligência Artificial |
+| **Matéria** | Eletiva 3 - Inteligência Artificial |
 | **Tipo** | Grupo |
 | **Equipe** | Diogo Barbosa, Davi Maia, José Mário Brandão, Christopher Lindoso, Nikolas Messias |
 | **Data** | 21/09/2026 |

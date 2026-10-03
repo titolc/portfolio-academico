@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Matéria** | Gestão da Informação |
+| **Matéria** | Eletiva 4 - Gestão da Informação |
 | **Tipo** | Individual |
 | **Data** | 03/10/2026 |
 | **Status** | Entregue |

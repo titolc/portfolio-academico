@@ -1,4 +1,4 @@
-# Governança em TI
+# Governança em Tecnologia da Informação
 
 [⬅ Voltar ao início](../README.md)
 

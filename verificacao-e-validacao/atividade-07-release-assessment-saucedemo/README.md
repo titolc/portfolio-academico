@@ -1,10 +1,10 @@
 # Atividade 07 - Release Assessment SauceDemo
 
-[⬅ Voltar ao início](../../README.md) · [Validação e Verificação](../)
+[⬅ Voltar ao início](../../README.md) · [Verificação e Validação](../)
 
 | | |
 |---|---|
-| **Matéria** | Validação e Verificação |
+| **Matéria** | Verificação e Validação |
 | **Tipo** | Individual |
 | **Data** | 16/09/2026 |
 | **Status** | Entregue |

@@ -1,10 +1,10 @@
 # LAB02 - Prática 01: Métricas de Governança Ágil
 
-[⬅ Voltar ao início](../../README.md) · [Governança em TI](../)
+[⬅ Voltar ao início](../../README.md) · [Governança em Tecnologia da Informação](../)
 
 | | |
 |---|---|
-| **Matéria** | Governança em TI |
+| **Matéria** | Governança em Tecnologia da Informação |
 | **Tipo** | Grupo |
 | **Equipe** | José Mário Brandão, Diogo Barbosa, Christopher Lindoso, Davi Maia, Miguel Cavalcanti |
 | **Data** | 09/09/2026 |

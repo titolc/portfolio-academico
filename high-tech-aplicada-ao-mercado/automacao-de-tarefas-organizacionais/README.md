@@ -11,7 +11,7 @@
 | **Status** | Entregue |
 | **Arquivo** | [automacao-de-tarefas.docx](automacao-de-tarefas.docx) |
 | **Tags** | `#automacao` `#processos` `#lgpd` |
-| **Relacionadas** | [Indicadores de TI](../../governanca-em-ti/lab01-pratica01-indicadores-de-ti/) |
+| **Relacionadas** | [Indicadores de TI](../../governanca-em-tecnologia-da-informacao/lab01-pratica01-indicadores-de-ti/) |
 
 ## Resumo
 

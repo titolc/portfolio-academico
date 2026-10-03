@@ -1,10 +1,10 @@
 # Project JJ: Healthy Eating
 
-[⬅ Voltar ao início](../../README.md) · [Inglês Avançado](../)
+[⬅ Voltar ao início](../../README.md) · [Tech English - Advanced](../)
 
 | | |
 |---|---|
-| **Matéria** | Inglês Avançado |
+| **Matéria** | Tech English - Advanced |
 | **Tipo** | Grupo |
 | **Equipe** | Alisson Gustavo, Allyson George, Christopher Lindoso, José Mário Brandão, Hericc Rocha |
 | **Data** | 24/08/2026 |

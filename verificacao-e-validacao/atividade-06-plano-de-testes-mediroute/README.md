@@ -1,10 +1,10 @@
 # Atividade 06 - Plano de Testes MediRoute
 
-[⬅ Voltar ao início](../../README.md) · [Validação e Verificação](../)
+[⬅ Voltar ao início](../../README.md) · [Verificação e Validação](../)
 
 | | |
 |---|---|
-| **Matéria** | Validação e Verificação de Software |
+| **Matéria** | Verificação e Validação de Software |
 | **Tipo** | Individual |
 | **Data** | 02/10/2026 |
 | **Status** | Entregue |

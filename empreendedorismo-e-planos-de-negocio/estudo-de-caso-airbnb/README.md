@@ -4,7 +4,7 @@
 
 | | |
 |---|---|
-| **Matéria** | Empreendedorismo e Planos de Negócio |
+| **Matéria** | Empreendedorismo e Planos de Negócios |
 | **Tipo** | Grupo |
 | **Equipe** | Christopher Lindoso, Davi Maia, Diogo Barbosa, José Mário Brandão |
 | **Data** | 06/09/2026 |

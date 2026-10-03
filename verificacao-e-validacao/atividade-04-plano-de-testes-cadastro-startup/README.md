@@ -1,10 +1,10 @@
 # Atividade 04 - Plano de Testes: Cadastro de Startup
 
-[⬅ Voltar ao início](../../README.md) · [Validação e Verificação](../)
+[⬅ Voltar ao início](../../README.md) · [Verificação e Validação](../)
 
 | | |
 |---|---|
-| **Matéria** | Validação e Verificação de Software |
+| **Matéria** | Verificação e Validação de Software |
 | **Tipo** | Grupo (Grupo 1) |
 | **Equipe** | José Mário Brandão, Diogo Barbosa, Christopher Lindoso, Davi Maia |
 | **Data** | 09/09/2026 |
