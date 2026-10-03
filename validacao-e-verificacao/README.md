@@ -6,6 +6,7 @@ Matéria de QA: planejar testes, montar arquitetura de testes, usar sistemas de 
 
 | Atividade | Data | Tipo | Assunto |
 |---|---|---|---|
+| [04 - Plano de Testes: Cadastro de Startup](atividade-04-plano-de-testes-cadastro-startup/) | 09/09/2026 | Grupo | Plano de testes de um módulo do DaMatch |
 | [06 - Plano de Testes MediRoute](atividade-06-plano-de-testes-mediroute/) | 02/10/2026 | Individual | Plano de testes de uma release |
 | [07 - Release Assessment](atividade-07-release-assessment-saucedemo/) | 16/09/2026 | Individual | Avaliação de release no SauceDemo |
 | [08 - Casos de Teste ParaBank](atividade-08-casos-de-teste-parabank/) | 02/10/2026 | Individual | Casos de teste e critérios de aceitação |
