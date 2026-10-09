@@ -34,10 +34,10 @@ Exemplos: `atividade-08-casos-de-teste-parabank`, `lab01-pratica02-pesquisa-bsc`
 
 | Matéria | Atividades | O que tem |
 |---|---|---|
-| [Verificação e Validação de Software](verificacao-e-validacao/) | 6 | Plano e arquitetura de testes, casos de teste, avaliação de release |
+| [Verificação e Validação de Software](verificacao-e-validacao/) | 7 | Plano e arquitetura de testes, casos de teste, avaliação de release, plano de testes do DaMatch |
 | [Governança em Tecnologia da Informação](governanca-em-tecnologia-da-informacao/) | 4 | Indicadores, BSC, COBIT, governança ágil |
 | [High Tech Aplicada ao Mercado](high-tech-aplicada-ao-mercado/) | 3 | Plano de negócio, automação, blockchain |
-| [Empreendedorismo e Planos de Negócios](empreendedorismo-e-planos-de-negocio/) | 2 | Estudo de caso, tendência e oportunidade |
+| [Empreendedorismo e Planos de Negócios](empreendedorismo-e-planos-de-negocio/) | 3 | Estudo de caso, tendência e oportunidade, Lean Canvas e BMC |
 | [Eletiva 3 - Inteligência Artificial](inteligencia-artificial/) | 2 | Engenharia de prompts e de contexto aplicada ao PI |
 | [Tech English - Advanced](tech-english-advanced/) | 1 | Projeto em inglês |
 | [Eletiva 4 - Gestão da Informação](gestao-da-informacao/) | 1 | Arquitetura da informação (este repositório) |
@@ -68,6 +68,8 @@ Exemplos: `atividade-08-casos-de-teste-parabank`, `lab01-pratica02-pesquisa-bsc`
 | 02/10/2026 | [10 - Arquitetura de Testes MedSupply](verificacao-e-validacao/atividade-10-arquitetura-de-testes-medsupply/) | Verificação e Validação | Individual |
 | 03/10/2026 | [Seminário Blockchain](high-tech-aplicada-ao-mercado/seminario-blockchain/) | High Tech | Grupo |
 | 03/10/2026 | [Meu Repositório Acadêmico](gestao-da-informacao/aula-06-repositorio-academico/) | Gestão da Informação | Individual |
+| 06/10/2026 | [Lean Canvas e BMC do DaMatch](empreendedorismo-e-planos-de-negocio/lean-canvas-e-bmc-damatch/) | Empreendedorismo | Grupo |
+| 06/10/2026 | [Apresentação: Validação do DaMatch](verificacao-e-validacao/apresentacao-plano-de-testes-damatch/) | Verificação e Validação | Grupo |
 
 ---
 
@@ -75,9 +77,9 @@ Exemplos: `atividade-08-casos-de-teste-parabank`, `lab01-pratica02-pesquisa-bsc`
 
 Dá pra usar a busca do GitHub (tecla `/`) com a tag, ou ir direto pela lista:
 
-- **Testes e QA:** [04](verificacao-e-validacao/atividade-04-plano-de-testes-cadastro-startup/), [06](verificacao-e-validacao/atividade-06-plano-de-testes-mediroute/), [07](verificacao-e-validacao/atividade-07-release-assessment-saucedemo/), [08](verificacao-e-validacao/atividade-08-casos-de-teste-parabank/), [09](verificacao-e-validacao/atividade-09-arquitetura-de-testes-ecommerce/), [10](verificacao-e-validacao/atividade-10-arquitetura-de-testes-medsupply/)
+- **Testes e QA:** [04](verificacao-e-validacao/atividade-04-plano-de-testes-cadastro-startup/), [06](verificacao-e-validacao/atividade-06-plano-de-testes-mediroute/), [07](verificacao-e-validacao/atividade-07-release-assessment-saucedemo/), [08](verificacao-e-validacao/atividade-08-casos-de-teste-parabank/), [09](verificacao-e-validacao/atividade-09-arquitetura-de-testes-ecommerce/), [10](verificacao-e-validacao/atividade-10-arquitetura-de-testes-medsupply/), [Validação do DaMatch](verificacao-e-validacao/apresentacao-plano-de-testes-damatch/)
 - **Indicadores e KPIs:** [Indicadores de TI](governanca-em-tecnologia-da-informacao/lab01-pratica01-indicadores-de-ti/), [Pesquisa BSC](governanca-em-tecnologia-da-informacao/lab01-pratica02-pesquisa-bsc/), [Governança Ágil](governanca-em-tecnologia-da-informacao/lab02-pratica01-metricas-governanca-agil/)
-- **Startups e negócios:** [Airbnb](empreendedorismo-e-planos-de-negocio/estudo-de-caso-airbnb/), [Da tendência à oportunidade](empreendedorismo-e-planos-de-negocio/da-tendencia-a-oportunidade/), [Plano de Negócio Digital](high-tech-aplicada-ao-mercado/plano-de-negocio-digital/)
+- **Startups e negócios:** [Airbnb](empreendedorismo-e-planos-de-negocio/estudo-de-caso-airbnb/), [Da tendência à oportunidade](empreendedorismo-e-planos-de-negocio/da-tendencia-a-oportunidade/), [Plano de Negócio Digital](high-tech-aplicada-ao-mercado/plano-de-negocio-digital/), [Lean Canvas e BMC](empreendedorismo-e-planos-de-negocio/lean-canvas-e-bmc-damatch/)
 - **Estudos de caso de empresas reais:** [Airbnb](empreendedorismo-e-planos-de-negocio/estudo-de-caso-airbnb/), [Tencent](governanca-em-tecnologia-da-informacao/pratica-01-analise-tencent/)
 - **Inteligência artificial e prompts:** [Dados públicos de Recife](inteligencia-artificial/pi-oportunidade-dados-publicos-recife/), [Pacote de Contexto](inteligencia-artificial/pacote-de-contexto/)
-- **Ligadas ao DaMatch:** [Projeto Integrador](projeto-integrador/), [Da tendência à oportunidade](empreendedorismo-e-planos-de-negocio/da-tendencia-a-oportunidade/), [Dados públicos de Recife](inteligencia-artificial/pi-oportunidade-dados-publicos-recife/), [Pacote de Contexto](inteligencia-artificial/pacote-de-contexto/), [Atividade 04](verificacao-e-validacao/atividade-04-plano-de-testes-cadastro-startup/)
+- **Ligadas ao DaMatch:** [Projeto Integrador](projeto-integrador/), [Da tendência à oportunidade](empreendedorismo-e-planos-de-negocio/da-tendencia-a-oportunidade/), [Dados públicos de Recife](inteligencia-artificial/pi-oportunidade-dados-publicos-recife/), [Pacote de Contexto](inteligencia-artificial/pacote-de-contexto/), [Atividade 04](verificacao-e-validacao/atividade-04-plano-de-testes-cadastro-startup/), [Lean Canvas e BMC](empreendedorismo-e-planos-de-negocio/lean-canvas-e-bmc-damatch/), [Validação do DaMatch](verificacao-e-validacao/apresentacao-plano-de-testes-damatch/)

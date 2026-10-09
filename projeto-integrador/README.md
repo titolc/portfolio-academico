@@ -51,6 +51,7 @@ Os critérios perguntados no formulário são os mesmos que o sistema usa para c
 
 - O problema e a oportunidade do projeto vieram da atividade [Da tendência à oportunidade](../empreendedorismo-e-planos-de-negocio/da-tendencia-a-oportunidade/), de Empreendedorismo.
 - Em Inteligência Artificial, usamos [dados públicos de Recife](../inteligencia-artificial/pi-oportunidade-dados-publicos-recife/) para checar a oportunidade e montamos um [pacote de contexto](../inteligencia-artificial/pacote-de-contexto/) para investigar o problema com IA.
-- Em Verificação e Validação, fizemos o [plano de testes do cadastro de startup](../verificacao-e-validacao/atividade-04-plano-de-testes-cadastro-startup/) do DaMatch.
+- Em Empreendedorismo, montamos o [Lean Canvas e o BMC](../empreendedorismo-e-planos-de-negocio/lean-canvas-e-bmc-damatch/) do DaMatch.
+- Em Verificação e Validação, fizemos o [plano de testes do cadastro de startup](../verificacao-e-validacao/atividade-04-plano-de-testes-cadastro-startup/) e depois a [apresentação do plano de testes completo](../verificacao-e-validacao/apresentacao-plano-de-testes-damatch/) do DaMatch.
 - As histórias de usuário e os critérios de aceitação usam o mesmo formato da [Atividade 08](../verificacao-e-validacao/atividade-08-casos-de-teste-parabank/).
 - O plano de testes do projeto pode seguir o modelo da [Atividade 06](../verificacao-e-validacao/atividade-06-plano-de-testes-mediroute/).
