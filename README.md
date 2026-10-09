@@ -35,7 +35,7 @@ Exemplos: `atividade-08-casos-de-teste-parabank`, `lab01-pratica02-pesquisa-bsc`
 | Matéria | Atividades | O que tem |
 |---|---|---|
 | [Verificação e Validação de Software](verificacao-e-validacao/) | 7 | Plano e arquitetura de testes, casos de teste, avaliação de release, plano de testes do DaMatch |
-| [Governança em Tecnologia da Informação](governanca-em-tecnologia-da-informacao/) | 4 | Indicadores, BSC, COBIT, governança ágil |
+| [Governança em Tecnologia da Informação](governanca-em-tecnologia-da-informacao/) | 5 | Indicadores, BSC, COBIT, governança ágil, portfólio da Unidade I |
 | [High Tech Aplicada ao Mercado](high-tech-aplicada-ao-mercado/) | 3 | Plano de negócio, automação, blockchain |
 | [Empreendedorismo e Planos de Negócios](empreendedorismo-e-planos-de-negocio/) | 3 | Estudo de caso, tendência e oportunidade, Lean Canvas e BMC |
 | [Eletiva 3 - Inteligência Artificial](inteligencia-artificial/) | 2 | Engenharia de prompts e de contexto aplicada ao PI |
@@ -70,6 +70,7 @@ Exemplos: `atividade-08-casos-de-teste-parabank`, `lab01-pratica02-pesquisa-bsc`
 | 03/10/2026 | [Meu Repositório Acadêmico](gestao-da-informacao/aula-06-repositorio-academico/) | Gestão da Informação | Individual |
 | 06/10/2026 | [Lean Canvas e BMC do DaMatch](empreendedorismo-e-planos-de-negocio/lean-canvas-e-bmc-damatch/) | Empreendedorismo | Grupo |
 | 06/10/2026 | [Apresentação: Validação do DaMatch](verificacao-e-validacao/apresentacao-plano-de-testes-damatch/) | Verificação e Validação | Grupo |
+| 09/10/2026 | [Portfólio - Unidade I](governanca-em-tecnologia-da-informacao/portfolio-unidade-1/) | Governança em Tecnologia da Informação | Individual |
 
 ---
 
